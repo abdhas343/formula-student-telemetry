@@ -2,7 +2,7 @@
 
 A Python-based telemetry dashboard for a simulated electric Formula Student race car.
 
-▶ Launch Interactive Dashboard
+https://formula-student-telemetry.streamlit.app/
 
 Dashboard Preview
 
